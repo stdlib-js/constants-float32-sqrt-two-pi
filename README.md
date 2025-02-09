@@ -157,7 +157,9 @@ Macro for the square root of the mathematical constant [π][@stdlib/constants/fl
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/constants-float32/pi`][@stdlib/constants/float32/pi]</span><span class="delimiter">: </span><span class="description">π.</span>
 -   <span class="package-name">[`@stdlib/constants-float32/two-pi`][@stdlib/constants/float32/two-pi]</span><span class="delimiter">: </span><span class="description">2π.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/sqrt-two-pi`][@stdlib/constants/float64/sqrt-two-pi]</span><span class="delimiter">: </span><span class="description">square root of 2π.</span>
 
 </section>
 
@@ -189,7 +191,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -240,6 +242,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 <!-- <related-links> -->
 
 [@stdlib/constants/float32/two-pi]: https://github.com/stdlib-js/constants-float32-two-pi
+
+[@stdlib/constants/float64/sqrt-two-pi]: https://github.com/stdlib-js/constants-float64-sqrt-two-pi
 
 <!-- </related-links> -->
 
